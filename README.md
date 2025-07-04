@@ -30,7 +30,8 @@ In this phase, I focused on mastering **asynchronous JavaScript** and advanced c
       console.log("This is an IIFE!");
   })();
 
-  🛠️Tools Used
+
+🛠️Tools Used
   >JavaScript(ES6+)
   >VS Code
 
@@ -39,3 +40,6 @@ In this phase, I focused on mastering **asynchronous JavaScript** and advanced c
   .Clean coding practices for handling asynchronous operations.
   .The power of IIFE for creating isolated scopes.
   .Real world use cases of async opeartions in frontend/Backend.
+
+
+  
